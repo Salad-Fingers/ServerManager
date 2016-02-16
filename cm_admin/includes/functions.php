@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','Football16@');
+define('DB_PASS','xxxxxxx');
 define('DB_NAME','cmv1');
 
 
